@@ -1,0 +1,7 @@
+---
+  default: -p pretty -p chrome -p exec --publish-quiet
+  pretty: --format pretty
+  progress: --format progress
+  exec: ENV_TYPE=ambiente_execucao
+  chrome: browser=chrome
+  headless: browser=headless

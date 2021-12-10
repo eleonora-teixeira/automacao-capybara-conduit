@@ -1,0 +1,5 @@
+url: "https://demo.realworld.io"
+user:
+  default:
+    email: 'peter.parker@mail.com'
+    password: '123456'
